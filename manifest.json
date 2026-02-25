@@ -1,0 +1,9 @@
+﻿{
+  "name":  "BetterSpeedometer",
+  "description":  "Additional features for the speedometer",
+  "version_number":  "1.0.0",
+  "website_url":  "https://github.com/10-days-till-xmas/BetterSpeedometer",
+  "dependencies":  [
+    "bbepis-BepInExPack-5.4.2121"
+  ]
+}
