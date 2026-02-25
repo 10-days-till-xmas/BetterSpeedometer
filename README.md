@@ -9,10 +9,10 @@ This will lead to it being bugged when uninstalling
 due to how it technically uses an invalid pref value.
 Just change the speedometer value in settings to fix it!
 
-<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image1.png?raw=true" alt="Standard HUD" width="300"/>
-<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image2.png?raw=true" alt="Standard HUD" width="300"/>
+<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image1.png?raw=true" alt="New Standard HUD Speedometer" width="300"/>
+<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image2.png?raw=true" alt="New Classic HUD Speedometer" width="300"/>
 <br>
-<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image3.png?raw=true" alt="Standard HUD" width="600"/>
+<img src="https://github.com/10-days-till-xmas/BetterSpeedometer/blob/master/resources/image3.png?raw=true" alt="New Speedometer Settings Menu" width="600"/>
 
 ## Usage
 Change the speedometer settings value in the HUD settings, as shown in the image above
